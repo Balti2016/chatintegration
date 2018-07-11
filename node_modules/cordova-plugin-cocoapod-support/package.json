@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-cocoapod-support",
+        "scope": null,
+        "escapedName": "cordova-plugin-cocoapod-support",
+        "name": "cordova-plugin-cocoapod-support",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "G:\\testclone\\Applozic-Cordova-Ionic-PhoneGap-Chat-Plugin\\samples\\ionic2"
+    ]
+  ],
+  "_from": "cordova-plugin-cocoapod-support@latest",
+  "_id": "cordova-plugin-cocoapod-support@1.5.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-cocoapod-support",
+  "_nodeVersion": "9.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-cocoapod-support_1.5.0_1528562901827_0.9486442189397175"
+  },
+  "_npmUser": {
+    "name": "blakgeek",
+    "email": "blakgeek@gmail.com"
+  },
+  "_npmVersion": "6.1.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-cocoapod-support",
+    "scope": null,
+    "escapedName": "cordova-plugin-cocoapod-support",
+    "name": "cordova-plugin-cocoapod-support",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-cocoapod-support/-/cordova-plugin-cocoapod-support-1.5.0.tgz",
+  "_shasum": "6aabd9d4cef9d927b9e244f8995ca87148a11ede",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-cocoapod-support",
+  "_where": "G:\\testclone\\Applozic-Cordova-Ionic-PhoneGap-Chat-Plugin\\samples\\ionic2",
+  "bugs": {
+    "url": "https://github.com/blakgeek/cordova-plugin-cocoapods-support/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-cocoapod-support",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "semver": "^5.3.0",
+    "shelljs": "^0.7.5",
+    "xml2js": "^0.4.16"
+  },
+  "description": "A Cordova/PhoneGap plugin to add support for Cocoapod dependencies.",
+  "devDependencies": {
+    "libxmljs": "^0.18.4"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-VAewfmJppWdptESZ7tMCLBOxLTOJ6213m5/AdP481fINWVXEVkMGvBYJw8rkB9rbpNPeNCG+g9+old6Hl/VIHg==",
+    "shasum": "6aabd9d4cef9d927b9e244f8995ca87148a11ede",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-cocoapod-support/-/cordova-plugin-cocoapod-support-1.5.0.tgz",
+    "fileCount": 10,
+    "unpackedSize": 105312,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbHATXCRA9TVsSAnZWagAAiEcP+QGDjHTBC1w9jAHJj1wo\n4m9vfG3pD/795cMSVstqL1TYaR1HasmD89JLFvDVMBzzgTSc0sz5AhIWQoGA\nlsZ/0MyLsvFYaiYzsWtsUG4vf6qRL934QdHC9epUGDj34XLz4iLVRI7OLuM+\nxf/9Ojx8g6DRfaofvUyn7u1u/oNOH/4posS+HCCIZkpZDsQ0A0GK6NXsJAxS\n6+tf0HX/dcFpVOV6P8g/MXeREfF8Qz+ZOGNDtySnQOdx8A7QqNMqgowGh1yz\nNDKeWwM2HS6WLQYEam2wx96lg0EGe5N94gX0HxbDKjy6k4Be/GM/sXAoyDo8\nRwhuIrm9RZWEDOCo/zjJmr6beMPMIX0PEKN/RlJ9VvpaJ8+ZU3fCjNgKKZXh\ncKif/vxaUse/eedRqO1CoBe+AYMKmAMuxf3DkG8p2p/QMMOLnNqiyJ6vWrP9\nsad3LXzfztTVq7zw0WO7lsSIxxLiqPUJ2LPLtuvhluVlijtOaAm6cbD/U8Eo\nzxA6f8siDDMIW4DIVdXvRRVLK7xAjqgtaaG2UFOCkky4GXfP48uhdvnhEVYL\nwNis8FDYFToCc/CYHhJCklmpv4ZVr1J8ZbN0VAK5ZpJUJtrSNBDOeOaReNEi\njbjfmMlqgnJnsdRMF/V0Pevl9PAzW4+Bqkz2Z3Z9ATJWRj+5z5EO+HG+H6UY\nPxBT\r\n=qHLi\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "5428a28ced8f0668bd32728e9754f2da441e1ee4",
+  "homepage": "https://github.com/blakgeek/cordova-plugin-cocoapods-support",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova:plugin",
+    "cocoapods",
+    "pod",
+    "pods",
+    "plugin"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "blakgeek",
+      "email": "blakgeek@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-cocoapod-support",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakgeek/cordova-plugin-cocoapods-support.git"
+  },
+  "scripts": {
+    "postversion": "node scripts/bump-plugin-xml.js; git add plugin.xml; git commit plugin.xml -m \"v${npm_package_version}\""
+  },
+  "version": "1.5.0"
+}
